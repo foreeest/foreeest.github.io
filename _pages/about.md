@@ -17,18 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Shenlin Cai from Guangzhou, China, I am interested in robotics.
+<h1>
+  🥰 Hi
+</h1>
+
+Hi, I am Shenlin Cai from Guangzhou, China. I am interested in robotics.
 
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉  One paper is selected as Best Conference Paper Award Finalist in ICRA 2025
 
 # 📝 Publications 
-
 Stable Tracking of Eye Gaze Direction During Ophthalmic Surgery(To be Published)
 
 # 🎖 Honors and Awards
 - *2023.12* Rank 29 in Guangzhou Marathon(half), finishing in 1:22:11   
 
-
 # 📖 Educations
-- *2022.09 - now*, Sun Yat-Sen University. 
+- *2022.09 - now*, Sun Yat-Sen University - Computer Science and Engineering. 
+  - Bachelor’s Degree in Computer Science
