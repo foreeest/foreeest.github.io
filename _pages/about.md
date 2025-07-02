@@ -24,10 +24,27 @@ redirect_from:
 Hi, I am Shenlin Cai from Guangzhou, China. I am interested in robotics.
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉  One paper is selected as Best Conference Paper Award Finalist in ICRA 2025
+- *2025.04*: &nbsp;🎉🎉  One paper is selected as **Best Conference Paper Award Finalist** in ICRA 2025
 
 # 📝 Publications 
-Stable Tracking of Eye Gaze Direction During Ophthalmic Surgery(To be Published)
+Stable Tracking of Eye Gaze Direction During Ophthalmic Surgery
+
+<div class="publications-section">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Arxiv</div>
+      <img src='/images/eye_tracker.png' alt="sym" width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+[Stable Tracking of Eye Gaze Direction During Ophthalmic Surgery](https://arxiv.org/abs/2507.00635)
+
+Tinghe Hong, **Shenlin Cai**, Boyang Li, Kai Huang\*
+</div>
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2023.12* Rank 29 in Guangzhou Marathon(half), finishing in 1:22:11   
@@ -35,3 +52,6 @@ Stable Tracking of Eye Gaze Direction During Ophthalmic Surgery(To be Published)
 # 📖 Educations
 - *2022.09 - now*, Sun Yat-Sen University - Computer Science and Engineering. 
   - Bachelor’s Degree in Computer Science
+
+# 💬 Invited Talks
+- *2025.05*, I give a talk about my paper in ICRA 2025 in Atlanta.
