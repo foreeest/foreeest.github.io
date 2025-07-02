@@ -27,7 +27,6 @@ Hi, I am Shenlin Cai from Guangzhou, China. I am interested in robotics.
 - *2025.04*: &nbsp;🎉🎉  One paper is selected as **Best Conference Paper Award Finalist** in ICRA 2025
 
 # 📝 Publications 
-Stable Tracking of Eye Gaze Direction During Ophthalmic Surgery
 
 <div class="publications-section">
 <div class='paper-box'>
