@@ -49,7 +49,7 @@ Tinghe Hong, **Shenlin Cai**, Boyang Li, Kai Huang\*
 - *2023.12* Rank 29 in Guangzhou Marathon(half), finishing in 1:22:11   
 
 # 📖 Educations
-- *2022.09 - now*, Sun Yat-Sen University - Computer Science and Engineering. 
+- *2022.09 - now*, Sun Yat-Sen University - Computer Science and Engineering
   - Bachelor’s Degree in Computer Science
 - *2026.09 - future*, Shanghai Jiao Tong University - Automation
   - PhD Candidate
