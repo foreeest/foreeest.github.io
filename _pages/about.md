@@ -51,6 +51,8 @@ Tinghe Hong, **Shenlin Cai**, Boyang Li, Kai Huang\*
 # 📖 Educations
 - *2022.09 - now*, Sun Yat-Sen University - Computer Science and Engineering. 
   - Bachelor’s Degree in Computer Science
+- *2026.09 - future*, Shanghai Jiao Tong University - Automation
+  - PhD Candidate
 
 # 💬 Invited Talks
 - *2025.05*, I give a talk about my paper in ICRA 2025 in Atlanta.
